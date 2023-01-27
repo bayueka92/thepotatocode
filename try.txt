@@ -1,4 +1,4 @@
-//try to make file.txt
+try to make file.txt
 #include <iostream>
 
 int main() {
